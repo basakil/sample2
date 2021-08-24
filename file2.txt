@@ -1,1 +1,2 @@
-Second file in Git repository
+Second file , changed in feature1 branch.
+Also, added a line in feature1 branch.
